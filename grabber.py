@@ -1,9 +1,14 @@
-import sys
 
-def getPage(url, proxies=None):
-    import requests
+class Grabber:
 
-    response = requests.get(url, proxies=proxies)
+    def __init__(self, baseurl, proxies=none):
+        self.baseurl = baseurl
+        self.proxies = proxies
+
+    def getPage(projectId):
+        import requests
+
+        response = requests.get(baseurl + '/' + projectId + '/')
 #    if response.status_code != 200:
 #        print "Well, that didn't work"
 #        sys.exit("blast!")

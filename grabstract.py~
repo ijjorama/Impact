@@ -4,11 +4,14 @@ def getPage(url, proxies=None):
     import requests
 
     response = requests.get(url, proxies=proxies)
+#    if response.status_code != 200:
+#        print "Well, that didn't work"
+#        sys.exit("blast!")
+ 
     return response.text 
 
 def getTagText(text, tag):
     from xml.etree import cElementTree as ET
-
     tagbase = '{http://gtr.rcuk.ac.uk/gtr/api/project}'
     project = ET.fromstring(text)
     tag = project.findall(tagbase + tag)
@@ -19,7 +22,8 @@ def main():
     projectText = getPage(url, {"http": "http://wwwcache.rl.ac.uk:8080/"} )
     if len(projectText) == 0:
         sys.exit("projectText is zero-length")
-
+    else:
+        pass # print projectText[:40]
     abstract = getTagText(projectText, 'abstractText') if projectText is not None else None
 
     print abstract
