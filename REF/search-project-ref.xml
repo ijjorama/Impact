@@ -1,0 +1,4 @@
+URL=http://impact.ref.ac.uk/casestudiesapi/REFAPI.svc/SearchCaseStudies?phrase=ST/K005642/1&format=XML
+
+Fail!
+<string xmlns="http://schemas.microsoft.com/2003/10/Serialization/">Not Found</string>

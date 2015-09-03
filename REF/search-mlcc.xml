@@ -1,0 +1,221 @@
+<ArrayOfCaseStudyDump xmlns="http://schemas.datacontract.org/2004/07/REFAPIService" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<CaseStudyDump>
+<CaseStudyId>999</CaseStudyId>
+<Continent><GeoLocation><GeoNamesId>6255148</GeoNamesId><Name>Europe</Name></GeoLocation><GeoLocation><GeoNamesId>6255149</GeoNamesId><Name>North America</Name></GeoLocation><GeoLocation><GeoNamesId>6255147</GeoNamesId><Name>Asia</Name></GeoLocation></Continent><Country><GeoLocation><GeoNamesId>1269750</GeoNamesId><Name>India</Name></GeoLocation><GeoLocation><GeoNamesId>3077311</GeoNamesId><Name>Czech Republic</Name></GeoLocation><GeoLocation><GeoNamesId>6252001</GeoNamesId><Name>United States</Name></GeoLocation></Country><Funders xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><a:string>Engineering and Physical Sciences Research Council</a:string><a:string>Council for the Central Laboratory of the Research Councils</a:string><a:string>Royal Society</a:string></Funders><ImpactDetails>&#xD;    AVX Ulster has had on-going links with AVX Ltd for over 25 years&#xD;      with the company funding research, providing PhD studentships and offering&#xD;      industrial support for numerous collaborative R&amp;amp;D projects. Most&#xD;      recently (2009), NIBEC and AVX commenced a large scale project to improve&#xD;      the quality of the dielectric layers in the Multi-Layer Ceramic Capacitors&#xD;      (MLCC) that the company produce in millions of units per day. This project&#xD;      was highly successful with major improvements in nanoparticle dispersion&#xD;      which the company have now fully integrated by into their volume&#xD;      production lines (including Czech Republic). This has had a major impact&#xD;      upon product development and business results [4]. [text removed for&#xD;      publication]. Building on the success of this collaboration, in 2012 AVX&#xD;      co-funded a second project in collaboration with NIBEC specifically&#xD;      focusing on improvement of the base metal electrode (BME) system utilising&#xD;      nanoparticle nickel for MLCCs. This project has already identified&#xD;      improvements in BME ink formulation and processing. [text removed for&#xD;      publication]. This has arisen due to the direction and outputs achieved&#xD;      from the materials characterisation and the understanding associated with&#xD;      electrical characterisation of both raw materials and devices. Improved&#xD;      control of de-agglomeration and dispersion of barium titanate powders and&#xD;      metal oxide dopants along with feedback from nanoscale measurement and&#xD;      characterisation data (impedance analysis, dispersion and binder-particle&#xD;      interaction) have allowed the company to greatly enhance their&#xD;      manufacturing processes [1, 4]. A third and much larger project (&amp;#163;4m) has&#xD;      recently been submitted to Invest NI (July 2013) focusing on defect&#xD;      control within the dielectrics layers. Furthermore, the knowledge gained&#xD;      through our recent collaborative activities has allowed AVX (NI) to gain&#xD;      substantial credibility with USA customers such as NASA, BMW, Ford and the&#xD;      European Space Agency. New device characterisation and fabrication&#xD;      capabilities introduced by NIBEC include, Electrical Impedance&#xD;      Spectroscopy, FIB preparation of lamellae and HRTEM analysis, XPS and&#xD;      ToF-SIMs, particle size analysis (BET, electroacoustic and dynamic light&#xD;      scattering), new wetting and dispersion technology and a rare earth dopant&#xD;      programme. All of these interactions have impacted on international sales,&#xD;      growth, global market penetration and job sustainability. Joint&#xD;      publications, publicity and sponsored PhD programmes have resulted,&#xD;      leading to a strong and fruitful relationship.&#xD;    SiSaf Ltd.: SiSaf is a spin-in to NIBEC and is developing drug&#xD;      delivery formulations that use a patented bioactive and non-toxic form of&#xD;      silicon nanoparticles (&amp;#8804; 50nm) that are designed to allow compounds to&#xD;      penetrate into the deeper layers of the skin without adverse effects [2].&#xD;      Using the extensive knowledgebase acquired over the last 15 years in the&#xD;      area of nanomaterials, NIBEC is assisting the company to develop improved&#xD;      fabrication and characterisation techniques. NIBEC have a senior staff&#xD;      representative on the board as CSO (JMcL). SiSafs core fabrication and&#xD;      characterisation laboratories are based at NIBEC and with the investment&#xD;      of two joint &amp;#163;250k INI R&amp;amp;D grants, various consultancies and&#xD;      collaborative work, NIBEC and SiSaf have jointly developed a wide range of&#xD;      capabilities in silicon nanoparticle production. This work has led to an&#xD;      expansion of SiSaf to seven staff, increased laboratory space and&#xD;      enhancement of their patent, IP and knowledge assets. High quality silicon&#xD;      nanoparticles (50-100nm) are routinely batch-produced, functionalised,&#xD;      doped with drugs and characterised for trials and marketing samples to&#xD;      customers.&#xD;    This interaction has already led to a better understanding of the&#xD;      fundamental properties of Si nanoparticles, its dependence of the&#xD;      formulation route and a more efficient processing protocol. The research&#xD;      has directly impacted on the valuation of the company with NIBEC staff&#xD;      producing key reports and know-how in a number of important areas, namely:&#xD;      the nature, size and surface characteristics of the 50 nm silicon&#xD;      nanoparticles; three technical reports on the scale-up viability for&#xD;      nanoparticle production via (i) arc deposition, (ii) via - milling and&#xD;      (iii) via Pulsed Laser Deposition (PLD) for production of smaller&#xD;      particles. Biocompatibility (and in particular nano-toxicity) has been&#xD;      investigated by NIBEC and a technical report issued which has impacted&#xD;      beneficially on investor confidence through our findings of non-toxicity&#xD;      which would have been a major barrier to full commercialisation. The&#xD;      company now has a valuation of &amp;#163;3.5m and is completing a set of &amp;#163;1.5m&#xD;      human trials in the USA to determine the suitability of the product for&#xD;      topical application. It has a Silicon Valley office at ITLG with John&#xD;      Hartnett as lead investor along with IUL, Crescent Capital and a set of&#xD;      private angels [7,8]. The impact of having NIBEC team on board is&#xD;      significant and the following points were key to improving the company's&#xD;      overall value: nanoparticle fabrication (via plasma, CVD, wet etching and&#xD;      milling); nanoparticle characterisation via HRTEM, dynamic light&#xD;      scattering and zeta potential dispersion analysis, pharmaokinetics and&#xD;      nanotoxicity testing with human cell lines [2]. In summary the company is&#xD;      in a strong position, with over &amp;#163;2m of investment to date and with Human&#xD;      Clinical trials near completion, Suzanne Siebert (CEO) has said&#xD;        "NIBEC's impact on the company has been critical, and as we develop even&#xD;        stronger international relationships in India, USA and throughout&#xD;        Europe, these engineers, who underpin our work are highly important&#xD;        partners".&#xD;    SEAGATE: In 1994 the then core nanotechnology team at NIBEC, in&#xD;      conjunction with colleagues in QUB and local government agencies, were&#xD;      instrumental in attracting Seagate Technologies to locate a major&#xD;      production facility in the UK (in competition with South America, eastern&#xD;      Europe and Asia). The subsequent NIBEC relationships with Seagate R&amp;amp;D&#xD;      in both the UK and the USA were developed around nanoscale coatings of&#xD;      diamond-like carbon on a new generation of GMR read-write head devices.&#xD;      The NIBEC team utilised a novel plasma immersion technique called Filtered&#xD;      Cathodic Vacuum Arc (FCVA) that was developed in conjunction with Veeco&#xD;      Instruments (USA). This, along with our development of specific metrology&#xD;      protocols for analysing AlTiC ceramics, led to ultra-hard layers (30 GPa)&#xD;      with a credible measured thickness of 1.5nm, the world's thinnest&#xD;      continuous carbon coatings [3]. [text removed for publication]. The&#xD;      ultimate result was a read-write head with a significantly increased iron&#xD;      content and a reduction in head-disc flying-height (due to the protective&#xD;      nature of the dense carbon layer). [text removed for publication].&#xD;      Seagate, in conjunction with InvestNI, invested over &amp;#163;5m in three key&#xD;      projects associated with the augmentation of this initial work, from 1996&#xD;      to 2009. NIBEC and Seagate are currently planning a new programme of&#xD;      engagement in the area of Heat Assisted Magnetic Recording with a focus on&#xD;      our proven nanomaterials capability [3].&#xD;    </ImpactDetails><ImpactSummary>&#xD;    Nanomaterials research at Ulster into materials including diamond-like&#xD;      carbon (DLC) ultra-thin films, carbon nanotubes (CNT), graphene, silicon&#xD;      and metal oxide nanoparticles has resulted in direct uptake by major&#xD;      industrial manufacturers and led to a directly quantifiable socio-economic&#xD;      impact via added value, improved efficiencies and cost-savings and has&#xD;      secured or increased the employment of skilled engineering staff. Examples&#xD;      of this impact since 2008 include ceramic nanoparticles research in&#xD;      partnership with AVX Ltd that resulted in improved production efficiency&#xD;      processes (up 20%) and higher quality devices (up 10%). [text removed for&#xD;      publication] Research into ultra-thin DLC films, funded by Seagate, has&#xD;      led to their incorporation into magnetic media. [text removed for&#xD;      publication] Our nanoparticle research has attracted a new spin-in company&#xD;      SiSaf Ltd. (2009) and by incorporating NIBEC's expertise in nanomaterials&#xD;      into its business plan, the company was able to grow to a valuation of&#xD;      &amp;#163;3.5m and employ 7 people in skilled technical positions.&#xD;    </ImpactSummary><ImpactType>Technological</ImpactType><Institution>&#xD;    </Institution><Institutions><HEI><AlternativeName>Ulster (University of)</AlternativeName><InstitutionName>University of Ulster</InstitutionName><PeerGroup>66</PeerGroup><Region>Northern Ireland</Region><UKPRN>10007807</UKPRN></HEI></Institutions><Panel>B         </Panel><PlaceName/><References>&#xD;    
+1. Okpalugo T, Papakonstantinou P, Murphy H, McLaughlin J, Brown N,&#xD;      (2005) "High resolution XPS characterization of chemical functionalised&#xD;      MWCNTs and SWCNTs" Carbon,Vol.43, pp 153-161&#xD;      DOI:10.1016/j.carbon.2004.08.033 (Cited 400 times)&#xD;    
+
+2. Shang, N, Papakonstantinou, P, McMullan, M, Chu, M, Stamboulis,&#xD;      A,Potenza, A, Dhesi, S and Marchetto, H (2008) Catalyst-Free Efficient&#xD;      Growth, Orientation and Biosensing Properties of Multilayer Graphene&#xD;      Nanoflake Films with Sharp Edge Planes. Adv. Functional Mats, 18 (21). pp.&#xD;      3506-3514. DOI:10.1002/adfm.200800951 cited 250 times&#xD;    
+
+3. Shang, NG, Papakonstantinou, P, Wang, P, Zakharov, A, Palnitkar, U,&#xD;      Lin, IN, Chu, M and Stamboulis, A Self-Assembled Growth,&#xD;      Microstructure, and FE High-Performance of Ultrathin Diamond-Nanorods.&#xD;      (2009) ACS NANO, 3 (4). pp. 1032-1038 DOI:10.1021/nn900167p&#xD;      (Nanofabrication and characterisation)&#xD;    
+
+4. Papakonstantinou P, Zhao J F, Lemoine P, McAdams ET, McLaughlin JAD,&#xD;      (2002) "The effects of Si incorporation on the electrochemical and&#xD;      nanomechanical properties of DLC thin films", Diamond and Related&#xD;      Materials, Vol. 11, No. 3-6, Elsevier, Pages 1074-1080&#xD;      DOI:10.1016/S0925-9635(01)00656-2 (cited 90 times)&#xD;    
+5. EPSRC: D Mariotti P Maguire et. al. EP/K022237/1 &amp;#163;692k (2012-2014)&#xD;      -nanoparticles&#xD;    6. EPSRC: J McLaughlin, P Maguire GR/L86319/01/Seagate &amp;#163;47k (1998-2001)&#xD;    </References><ResearchSubjectAreas><SubjectArea><Level1>9</Level1><Level2>12</Level2><Subject>Materials Engineering</Subject></SubjectArea><SubjectArea><Level1>3</Level1><Level2>1</Level2><Subject>Analytical Chemistry</Subject></SubjectArea><SubjectArea><Level1>3</Level1><Level2>3</Level2><Subject>Macromolecular and Materials Chemistry</Subject></SubjectArea></ResearchSubjectAreas><Sources>&#xD;    &#xD;      AVX: Statement of Evidence from Head of AVX (Coleraine) N1&#xD;      SiSaf: Statement of Evidence from CEO of SiSaf (www.sisaf.co.uk)&#xD;        N2&#xD;      Veeco-Seagate: Contact - Veeco-Seagate Account Manager N3&#xD;      Invest Northern Ireland: Contact Technology Executive (AVX and SiSaf&#xD;        reviewer) N4&#xD;      MATRIX: Contact Chair of MATRIX (Impact of NIBEC on Seagate/AVX/SiSaf)&#xD;        N5&#xD;      AVX Media: http://www.eri.ulster.ac.uk/uploads/documents/avx_nanoparicles_news.pdf&#xD;        N6&#xD;      SiSaf Media: http://www.eri.ulster.ac.uk/uploads/documents/sisaf_news.pdf&#xD;        N7&#xD;      SiSaf Investment Media: http://www.belfasttelegraph.co.uk/business/news/university-&#xD;biotech-firm-boosted-by-major-investment-from-silicon-valley-28603395.html&#xD;        N8&#xD;      Graphene/CNTs Media: N9 http://www.eri.ulster.ac.uk/uploads/documents/irish_times_article_pagona_nano(1).pdf
+&#xD;      Graphene International Scale-Up: N10 http://www.eri.ulster.ac.uk/uploads/documents/industrial_scale_graphene_pagona.docx
+&#xD;    &#xD;    </Sources><Title>&#xD;    Ulster - Bringing nanomaterials research to industrial production.&#xD;    </Title><UKLocation/><UKRegion/><UOA>Electrical and Electronic Engineering, Metallurgy and Materials</UOA><UnderpinningResearch>&#xD;    The Nanotechnology R&amp;amp;D activities within NIBEC have a coordinated&#xD;      focus on developing a fundamental understanding of how materials&#xD;      processing impacts on the resultant characteristics and properties of&#xD;      ultra-thin films (&amp;lt;2nm), nanoparticles and surface properties at the&#xD;      nanoscale [1-4]. We have an established track record in the preparation,&#xD;      analysis and processing of materials including diamond-like carbon (DLC),&#xD;      carbon nanotubes (CNT), graphene, and various nanoparticle systems (Si,&#xD;      group IV alloys, ferroelectric ceramics, and metal oxides). This area has&#xD;      received substantial support from EPSRC, the Royal Society, the EU&#xD;      Framework Programmes (FP4 - FP7) and InvestNI in collaboration with and/or&#xD;      through direct funded from industry (Seagate, AVX, SiSaf, Intel,&#xD;      Glaxo-Smith-Kline, Schrader Electronics, Analog Devices, TFX Medical,&#xD;      Medtronic, Labcoat, Kelvatech, Randox). The strategic aim of this research&#xD;      is to advance the understanding of nanomaterials for device fabrication&#xD;      and to promote its integration into advanced industrial manufacture [5].&#xD;      The associated publications highlight our expertise in fabrication &amp;amp;&#xD;      advanced characterisation that led to direct industry impact (PP, PM, PL).&#xD;    A number of targeted equipment grants have led to the creation of one of&#xD;      the most advanced academic nanomaterials research facilities in Europe&#xD;      (&amp;#163;15m of capital investment in the last 10 years from SRIF, RCIF, DEL,&#xD;      EPSRC)[6]. Recent highlights include novel equipment for the creation of&#xD;      ultra-thin carbon/CNT/graphene films, a nanoparticle production laboratory&#xD;      and advanced characterisation based on our new HRTEM. Our fundamental&#xD;      strengths have centred on; (i) advancing metrology for measuring&#xD;      nano-scale hardness, film thickness, internal stress and adhesive strength&#xD;      on ultra-thin (1-50nm) carbon layers; (ii) nanoparticle fabrication (via&#xD;      laser, microplasma, milling and wet chemical synthesis) and&#xD;      characterisation of both the materials and the synthesis processes; (iii)&#xD;      nano-scale surface-engineering and functionalisation with associated&#xD;      high-resolution analysis (HRTEM, ToF-SIMS, XPS). The recently established&#xD;      &amp;#163;2m nanoparticle laboratory is key to the synthesis, characterisation and&#xD;      understanding the unique properties of dispersed nanoparticles and it has&#xD;      attracted industry (AVX, Bombardier, SiSaf and Randox) to support our&#xD;      research.&#xD;    For material synthesis, our primary strength is in plasma-based&#xD;      deposition, surface engineering and functionalization. We have at hand a&#xD;      large number of plasma systems operating from DC up to microwave&#xD;      frequencies and from vacuum to atmospheric pressure. We host advanced&#xD;      pilot-scale industrial systems supplied through collaboration with&#xD;      equipment manufacturers. These include a custom-built microwave plasma&#xD;      system (Seiki, Japan), which was the world's first system for the&#xD;      deposition of highly oriented nanotubes [1- 3] and a FCVA - filtered&#xD;      cathodic vacuum arc system (NTI Technologies, Singapore) for the&#xD;      deposition of hydrogen-free highly diamond-like carbons for Seagate. The&#xD;      research groups involved have also designed and constructed a suite of&#xD;      advanced multi-functional plasma systems in-house, including pilot&#xD;      (reel-reel) production systems with integrated specialist diagnostic tools&#xD;      for concurrent measurement of plasma and material properties during the&#xD;      growth of nanoparticles. This facility is being further developed towards&#xD;      providing low- pressure and atmospheric pressure capabilities for general&#xD;      large area/low cost processing and precision three-dimensional coatings&#xD;      for medical implants. We have four patents awarded and active&#xD;      commercialisation in progress. Recently a University of Ulster spin-out&#xD;      company Surf Spec Ltd was established (BM) to exploit aspects of plasma&#xD;      surface modification as they apply to biomaterials. In-house materials&#xD;      characterisation is complemented by access to international synchrotron&#xD;      (Daresbury, Diamond, CERN) and neutron diffraction (Rutherford Appleton)&#xD;      facilities via numerous CCLRC and EU awards.&#xD;    We have secured funding for 15 projects related to nanomaterials and of&#xD;      these, two major research awards, totalling &amp;#163;1.6m since 2008, involve&#xD;      collaboration with AVX Ltd (TB, PL). The research aims to link&#xD;      fundamental ceramic nanoparticle properties to industrial processing&#xD;      conditions. The resultant impact on the electrical and reliability&#xD;      characteristics of multi-layer capacitor devices has allowed the company&#xD;      to develop a new generation of high value products. Core elements of this&#xD;      work along with the processing expertise developed are now also being&#xD;      targeted at the development of ceramic/clay fillers for Bombardier.&#xD;    SiSaf Ltd are a 2009 spin-in company with NIBEC staff on the board&#xD;      as CSO/Director. A collaborative research venture with NIBEC aims to&#xD;      produce and functionalise nanoparticle silicon for use in drug and&#xD;      therapeutic transdermal delivery applications (TB, JMcL, BM). This work&#xD;      relies on the provision of high-quality and precisely controlled 50nm&#xD;      particles of Si with defined porosity/surface properties in order to allow&#xD;      specific functionalisation and drug attachment. This has involved in-vitro&#xD;      testing of Si particle nano-toxicity at the NIBEC Cell Culture Facility&#xD;      (BM). The data has provided the platform for a vitamin C dissolution study&#xD;      in an animal model which indicated that the SiSaf delivery system is 30%&#xD;      better than a standard drug delivery system. Current studies are examining&#xD;      the use of nano-silicon for transdermal therapeutic delivery involving a&#xD;      USA based human clinical trial. SiSaf won the 2010 Award for Most&#xD;      Promising Technology at the Irish Technology Leadership Group (ITLG)&#xD;      awards ceremony in Silicon Valley, USA.&#xD;    The majority of the carbon-based ultra-thin film and nanoparticles work&#xD;      commenced in 2000 arising from the burgeoning global interest in&#xD;      diamond-like carbon (DLC), carbon nanotubes (CNT) and graphene for&#xD;      electrical, optical and mechanical applications (PM, PP JMcL). Our&#xD;      research was guided in the main via company initiated collaborations with&#xD;      Seagate Technology, Daewoo Electronics and TFX Medical [4,&#xD;      6]. Each company had a particular requirement for ultra- thin, low&#xD;      friction, dense (pin-hole free) and durable films of 1 nm (Seagate) - 20&#xD;      nm (TFX) in thickness. The experience gained in delivering the challenging&#xD;      specifications set down by these globally leading companies provided the&#xD;      model for the NIBEC technology transfer process and it is currently&#xD;      focussed on the controlled growth and properties of CNT arrays for&#xD;      biomedical and biosensor applications. Original work in the application of&#xD;      CNTs has led to the development of inventive electrochemical platforms for&#xD;      bio-sensing applications, several of which are now patent protected. Also&#xD;      a spin-out company, Graphene International Ltd (2012) has recently&#xD;      been established by PP with patents and licenses in the area of graphene&#xD;      production scale-up.&#xD;    </UnderpinningResearch>
+</CaseStudyDump>
+
+<CaseStudyDump><CaseStudyId>38363</CaseStudyId><Continent><GeoLocation><GeoNamesId>6255148</GeoNamesId><Name>Europe</Name></GeoLocation></Continent><Country><GeoLocation><GeoNamesId>3077311</GeoNamesId><Name>Czech Republic</Name></GeoLocation></Country>
+
+<Funders xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"/>
+<ImpactDetails>
+    Through the longstanding interaction with AVX Ltd the company was aware
+      of our unique academic research involving FIB micromachining allied to
+      microscopy of ferroelectrics to reveal intrinsic behaviour and identify
+      consequences of defects to capacitor behaviour.
+    In 2011, AVX Ltd encountered a reliability problem concerning specific
+      MLCC product ranges. Through their Tier 2 customers Lear Corporation and
+      Johnson Controls Inc. who on behalf of their Tier 1 customer Volkswagen
+      Group (for VW and Audi) reported that the Volkswagen Group had revised the
+      environmental specification for MLCC (case sizes 0603 and 0805) for
+      automotive applications [Source 1].
+    Under revised environmental stress conditions at the customer site and
+      subsequently replicated in the AVX Ltd. factory, of increased humidity and
+      temperature, the supplied parts where exhibiting unacceptable failure
+      rates. "The automotive industry is one of the most demanding markets
+        for MLCC with failure rates often pushed toward no more than 1:109
+      parts" [Source 1]. This arises because both the owner and
+      the public on the road perceives particular brand of vehicle to have
+      broken down and to not associate the breakdown with failure of a supply
+      chain component.
+    AVX Ltd made available a selection of operational and failed parts for
+      our investigation along with a technical brief on their electrical testing
+      to date on the basis that they "... were aware of the research in
+        ceramic capacitors and in particular the innovative focused ion beam
+        methods applied to ferroelectrics and capacitors that had been developed
+        at Queen's" [Source 1].
+    With our previous research in more sensitive nanoscale capacitors allied
+      to our expertise acquired via the KTP project "handling `green' and
+        finished parts" we were familiar at handling their commercial
+      product and that was seen as `beneficial" [Source 1].
+    A MLCC is comprised of a stack of several hundred interleaved
+      ferroelectric ceramic and nickel electrode layers. Electric contact to the
+      device is then made via end terminations of two layers of nickel and tin.
+      The tin layer provides the region for solder contact to be made. In the
+      particular product that exhibited failure the electrode is connected to
+      the MLCC via a stress relieving silver-polymer composite layer.
+    We were able to adapt and formulate a modification to our usual FIB based
+      micromachining protocols used in the creation of nanoscale capacitors to
+      develop a workflow that would allow us to extract representative sample
+      pieces for evaluation and inspection. This adapted workflow meant that we
+      were able to perform successional slicing of the MLCC's in a series of
+      testing locations.
+    Electron microscopy imaging and associated chemical analysis was
+      performed on slices extracted and in regions from where they had been
+      removed. It became evident that the failure under humidity test was not
+      arising from damage to or degradation of the more sensitive ferroelectric
+      ceramic material, but instead it was originating at the interface of the
+      electrode layers and the ferroelectric ceramic.
+    A major challenge, over the last fifteen or so years, in all research and
+      engineering of ferroelectric capacitors has been the move away from noble
+      metal electrodes and contacts to base metals such as nickel. Nickel will
+      unfavourably oxidise at the interface with the oxide-based titanate
+      ferroelectric. In this case of these failed parts further detailed
+      examination on FIB machined sections led to an unexpected cause of the
+      actual device failure. The final overcoat of tin was introducing
+      additional stress due to a high deposition rate that was exacerbating the
+      delamination of the nickel from the ferroelectric. That delamination then
+      provided a path for the metal in the polymer composite to escape under
+      application of voltage and caused part failure.
+    A report [Source 2] of the investigation and outcomes was prepared
+      and a de-briefing meeting at AVX Ltd arranged and the findings presented.
+      In addition to the technical staff of AVX Ltd at Coleraine also present
+      were engineers from their subsidiary plant in the Czech Republic that
+      undertakes the electro-plating of the metal electrode layers.
+    In addressing the reach and significance of this impact we note that
+      while AVX Ltd is based in Coleraine, Northern Ireland (NI), they are part
+      of AVX Corporation who are in turn part of Kyocera Electronic Devices in
+      the Kyocera Group.
+    As of 2012 AVX Ltd. employed 317 people in NI and had a &amp;#163;108M turnover;
+      no profit figures are available [Source 3]. The factory operates a
+      subsidiary activity in the Czech Republic. Product development and
+      principal manufacture in undertaken in Coleraine and then the parts are
+      shipped to the Czech Republic for the plating and sample testing before
+      supply to customers.
+    On the basis of our technical report and de-briefing meeting, informed by
+      data acquired using our FIB micromachining protocols AVX Ltd were able to
+      undertake timely revisions to their manufacturing program. This eradicated
+      the part failures to an accepted tolerance level and thus allowed them to
+      deliver on the contract to their Tier 2 customers Lear Corporation and
+      Johnson Controls Inc. who then in turn supply to their Tier 1 customers VW
+      and Audi [Source 1].
+    AVX Ltd. have confirmed that the value of the international contract was
+      "valued at $0.6M". [Source 1].
+    </ImpactDetails><ImpactSummary>
+    The provision of professional analysis and advice has created an economic
+      impact of $0.6M with AVX Ltd, a leading supplier of electronic components
+      within the Kyocera Group. This information was pivotal to AVX Ltd
+      retaining a major contract, for multi-layer ceramic capacitor (MLCC's)
+      supply through to the automotive manufacturer Volkswagen Group. Our
+      intervention addressed a reliability issue in the MLCCs and allowed them
+      to improve processes and revise manufacture protocols. The impact drew on
+      previous collaborative research with AVX Ltd and innovative methodologies
+      for preparation of micro and nanoscale samples of materials in capacitors
+      in academic research.
+    </ImpactSummary><ImpactType>Technological</ImpactType><Institution>
+    Queen's University Belfast
+    </Institution><Institutions><HEI><AlternativeName>Queen's University Belfast</AlternativeName><InstitutionName>Queen's University Belfast</InstitutionName><PeerGroup>65</PeerGroup><Region>Northern Ireland</Region><UKPRN>10005343</UKPRN></HEI></Institutions><Panel>B         </Panel><PlaceName/><References>
+    For each reference we provide data on the journal ranking within ISI
+      classification area/s by ISI Journal Impact Factor (IF), the actual
+      Journal Impact Factor and the number of cites the article received on the
+      ISI Web of Knowledge to September 2013.
+    References 1-3 illustrate both quality of the underpinning research and
+      evidence to the impact, while references 4-6 provide the latter.
+    
+[1] "Investigation of dead layer thickness in SrRuO3/Ba0.5Sr0.5TiO3/Au
+        thin film capacitors", L. J. Sinnamon et al., Applied Physics
+      Letters, 78, 1724 (2001). http://dx.doi.org/10.1063/1.1356731
+      (17th of 125 in Physics &amp;#8212; Applied, IF 3.8, 123 cites).
+    
+
+[2] "Exploring grain size as a cause for "dead-layer" effects in thin
+        film capacitors", L.J. Sinnamon, et al, Applied Physics Letters, 81,
+      703 (2002). http://dx.doi.org/10.1063/1.1494837
+      (17th of 125 in Physics &amp;#8212; Applied, IF 3.8, 77 cites).
+    
+
+[3] "Intrinsic dielectric response of ferroelectric nanocapacitors",
+      M. M. Saad, et al, Journal of Physics: Condensed Matter 16, L451
+      (2004). http://dx.doi.org/10.1088/0953-8984/16/41/L04
+      (18th of 69 in Physics &amp;#8212; Condensed Matter, IF 2.55, 96 cites).
+    
+
+[4] "Size Effects on Thin Film Ferroelectrics: Experiments on
+        Isolated Single Crystal Sheets", L. W. Chang, et al, Applied Physics
+      Letters, 93, 132904 (2008). http://dx.doi.org/10.1063/1.2990760
+      (17th of 125 in Physics &amp;#8212; Applied, IF 3.8, 31 cites)
+    
+
+[5] "Settling the Dead Layer Debate in Nanoscale Capacitors", L.
+      W. Chang, et al, Advanced Materials 21, 4911 (2009). http://dx.doi.org/10.1002/adma.200901756
+      (4th of 125 in Physics &amp;#8212; Applied, IF 13.9, 25 cites).
+    
+
+[6] "Strategies for gallium removal after focused ion beam patterning
+        of ferroelectric oxide nanostructures", A. Schilling, et al,
+      Nanotechnology 18, 035301 (2007). http://dx.doi.org/10.1088/0957-4484/18/3/035301
+      (16th of 125 in Physics &amp;#8212; Applied, IF 4.0, 16 cites)
+    
+</References><ResearchSubjectAreas><SubjectArea><Level1>3</Level1><Level2>2</Level2><Subject>Inorganic Chemistry</Subject></SubjectArea><SubjectArea><Level1>9</Level1><Level2>12</Level2><Subject>Materials Engineering</Subject></SubjectArea><SubjectArea><Level1>2</Level1><Level2>99</Level2><Subject>Other Physical Sciences</Subject></SubjectArea></ResearchSubjectAreas><Sources>
+    
+      Letter from Business Development Manager, AVX Ltd. Coleraine
+      Technical Report to AVX Ltd., 19 May 2011
+      Northern Ireland's Top 100 Companies &amp;#8212; The Belfast Telegraph, 30 April
+        2013,
+        http://www.belfasttelegraph.co.uk/business/top-100-companies/company-list/87-avx-29216579.html
+
+    
+    </Sources><Title>
+    Failure in Multilayer Ceramic Capacitors (MLCC's) for AVX Ltd.
+    </Title><UKLocation><GeoLocation><GeoNamesId>2652586</GeoNamesId><Name>Coleraine</Name></GeoLocation></UKLocation><UKRegion><GeoLocation><GeoNamesId>2641364</GeoNamesId><Name>Northern Ireland</Name></GeoLocation></UKRegion><UOA>Physics</UOA><UnderpinningResearch>
+    In the mid-1990's, academic staff, Bowman and Gregg, initiated a research
+      activity to map and understand the properties of micro- and nanoscale
+      ferroelectrics. Ferroelectrics were receiving significant commercial
+      interest in numerous capacitor applications/markets. A key element in the
+      early research was the fabrication and functional characterisation of very
+      simple thin film planar capacitor structures based on titanates. These
+      were investigated in an attempt to elucidate fundamental reasons for the
+      dramatic collapse in permittivity, that reduces device capacitance, with
+      decreasing device thickness and which was not understood at the time [Reference
+        1]. This was of great importance as titanates are of principal use
+      for both commercial ceramic capacitors (circa 1012 components
+      manufactured p.a.) such as the X7R devices and for novel high-K
+      perovskite-based Dynamic Random Access Memory (DRAM) systems
+      conceptualised at the time.
+    While capacitor structures made in-house did allow useful insights [Reference
+        2], it soon became clear that ferroelectric (dielectric) properties
+      were so sensitive to defects, introduced during thin film growth, that a
+      radically new experimental approach was needed. Thus, from 2002, a wholly
+      novel programme in which thin film capacitors were made from small slices
+      of ferroelectric cut from high purity single crystals using Focused Ion
+      Beam (FIB) milling [Reference 3] was initiated. Functional
+      characterisation of these relatively unclamped defect-free systems
+      demonstrated that the permittivity did not necessarily collapse with
+      dielectric thickness decrease at all and that the effect could be
+      engineered out in real devices. Such insights were published in a number
+      of articles between 2004 and 2009 [Reference 4, 5].
+    At the same time as this FIB micro-machining work progressed that
+      included further insights into damage mitigation [Reference 6] we
+      commenced a Knowledge Transfer Partnership (KTP) with AVX Ltd. The
+      three-year project from 2005-2007 worth &amp;#163;123K was titled "Critical
+        interfaces in currently produced capacitors". The project engaged
+      M.M. Saad, primary author of Reference 3, as the Knowledge Transfer
+      Associate. The project combined precision micro-machining by FIB to
+      isolate known and potential defects and regions of MLCCs for detailed
+      chemical and structural analysis that would then be followed up via TEM
+      (Transmission Electron Microscopy) and STEM (Scanning Transmission
+      Electron Microscopy). In the programme the parts investigated covered X7R
+      specifications for in consumer electronics applications through to those
+      for high voltage automotive usage. This provided Bowman and Gregg with
+      significant bilateral experience in handling of parts and establishing
+      common terminological ground for the use of the research methodologies and
+      results to be applied to evaluating the defects that arise in such
+      commercial components.
+    We note that associated research in thin film capacitors remains an
+      active area of endeavour, most recently via Technology Strategy Board
+      (TSB) support of a project "Advanced capacitors for energy storage"
+      with Syfer Technology worth &amp;#163;164K in 2010-12 and has received significant
+      recent press attention http://goo.gl/p1kp12.
+      Such collaborations have tapped various aspects of the ferroelectrics
+      expertise developed in Queen's, but microscopy and FIB-processing
+      knowledge has been crucial in all collaborative research to date.
+    </UnderpinningResearch></CaseStudyDump></ArrayOfCaseStudyDump>
